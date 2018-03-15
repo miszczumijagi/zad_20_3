@@ -1,6 +1,6 @@
 import { GET_COUNTRIES } from '../actions/actions-countries';
 import countriesData from '../data/countries.json';
-import getCountries from '../actions/actions-countries';
+
 
 const initialState = {
     countries: countriesData
